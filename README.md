@@ -7,6 +7,6 @@ Me chamo Leonardo Santos, tenho 24 anos, atualmente estou cursando Engenharia de
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leosantosre&show_icons=true&theme=dracula&locale=pt-br&custom_title=Estatísticas&count_private=true&include_all_commits=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leosantosre&show_icons=true&theme=dracula&locale=pt-br&custom_title=Estatísticas&count_private=true&include_all_commits=true&card_width=200)
 &nbsp;
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosre&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosre&theme=dracula&layout=compact&custom_title=Tecnologias%20utilizadas&langs_count=9&card_width=250)
