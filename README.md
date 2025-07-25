@@ -1,5 +1,5 @@
 # Oi, eu sou o Leo! 🦁
-Me chamo Leonardo Santos, tenho 24 anos, atualmente estou cursando Engenharia de Software na UNINTER e atuo como Analista de Operações em uma infratech financeira.
+Me chamo Leonardo Santos, estou cursando Engenharia de Software na UNINTER e atuo como Analista de Operações em uma infratech financeira.
 
 [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/Linkedin-blue?style=&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/leosantosre)
 &nbsp;
